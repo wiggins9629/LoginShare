@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LoginShare</string>
+
+    <string name="title">第三方账号登录分享</string>
+    <string name="loading">正在加载中，请稍后...</string>
+    <string name="cancel">取消</string>
+    <string name="weibo">微博</string>
+    <string name="qq">QQ</string>
+    <string name="qzone">QQ空间</string>
+    <string name="wechat_session">微信会话</string>
+    <string name="wechat_friends">微信朋友圈</string>
+    <string name="wechat_facorite">微信收藏</string>
+    <string name="please_install_wechat_client">请先安装微信客户端</string>
+
+    <!-- 登录 -->
+    <string name="please_enter_account_information">请输入账户信息</string>
+    <string name="please_enter_login_name">请输入用户名</string>
+    <string name="username_not_empty">用户名不能为空</string>
+    <string name="please_enter_password">请输入密码</string>
+    <string name="password_not_empty">密码不能为空</string>
+    <string name="login">登录</string>
+
+    <!-- 获取 Token -->
+    <string name="auth_success">授权成功</string>
+    <string name="auth_failed">授权失败</string>
+    <string name="auth_canceled">取消授权</string>
+    <string name="token_to_string_format_1">Token：%1$s \n有效期：%2$s</string>
+
+    <!-- 分享成功失败的 Toast -->
+    <string name="share_success">分享成功</string>
+    <string name="share_failed">分享失败</string>
+    <string name="share_canceled">取消分享</string>
+
+    <string name="errcode_ok">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_failed">发送失败</string>
+    <string name="errcode_denied">发送被拒绝</string>
+    <string name="errcode_unsupport">不支持错误</string>
+    <string name="errcode_comm">一般错误</string>
+    <string name="errcode_unknown">未知错误</string>
+
+    <string name="get_user_info_success">获取用户信息成功</string>
+    <string name="get_user_info_failed">获取用户信息失败</string>
+    <string name="get_user_info_canceled">获取用户信息取消</string>
+</resources>
